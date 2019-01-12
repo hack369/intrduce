@@ -40,7 +40,7 @@ header {width: 100%;height: 70px;background: #fff;line-height: 70px;-webkit-box-
 .my_intro {text-align: center;
 }
 
-.my_intro h2 {font-size: 50px;font-weight: bold;line-height: 1.2;}
+.my_intro h2 {font-size: 30px;font-weight: bold;line-height: 1.2;}
 
 .my_intro p {margin-top: 30px;font-size: 20px;line-height: 1.6;}
 .title {text-align: center;}
@@ -52,7 +52,7 @@ header {width: 100%;height: 70px;background: #fff;line-height: 70px;-webkit-box-
 
 
 /*skills*/
-.skills {margin-top: 8%;}
+.skills {margin-top: 2%;}
 
 .skills li {float: left;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;padding: 0 30px;width: 33%;text-align: center;ransiton: 0.5s;}
 
